@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahedcse08&label=Profile%20views&color=0e75b6&style=flat" alt="shahedcse08" /> </p>
 
-- 🔭 I’m currently working on <a href="https://www.nexttechnologies.com.au/" target="blank">**NextX**</a>
+- 🔭 I’m currently working on <a href="https://www.nexttechnologies.com.au/" target="_blank">**NextX**</a>
 
 - 💬 Ask me about **Asp.net core , Angular , Javascript , Jquery , SQL , C#**
 

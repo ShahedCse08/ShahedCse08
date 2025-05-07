@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahedcse08&label=Profile%20views&color=0e75b6&style=flat" alt="shahedcse08" /> </p>
 
-- 🔭 I’m currently working on <a href="https://www.nexttechnologies.com.au/" target="_blank">**NextX**</a>
-
+- 🔭 I’m currently working on <ul><li><a href="https://passioncare.com/" target="_blank">**Passion Care**</a></li><li><a href="https://hatzalah.org/" target="_blank">**Hatzalah**</a></li></ul>
+- 🔭 I worked on <ul><li><a href="https://www.nexttechnologies.com.au/" target="_blank">**NextX**</a></li><li><a href="http://www.empresshr.com/" target="_blank">**EMPRESS**</a></li></ul> 
 - 💬 Ask me about **Asp.net core , Angular , Javascript , Jquery , SQL , C#**
 
 - 📫 How to reach me **shahed.netcore@gmail.com**
